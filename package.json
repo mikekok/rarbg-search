@@ -1,0 +1,26 @@
+{
+  "name": "rarbg-search",
+  "version": "0.0.1",
+  "description": "Search torrents at RARBG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikekok/rarbg-search.git"
+  },
+  "keywords": [
+    "rarbg",
+    "rarbg.to",
+    "torrents",
+    "tracker",
+    "search"
+  ],
+  "author": "Mike Kokkolios <mikekokkolios@gmail.com> (https://xweb.gr)",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "request": "^2.81.0"
+  }
+}
