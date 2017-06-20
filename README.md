@@ -9,7 +9,7 @@ A Node.js module to search for torrents at RARBG tracker.
 const rarbg = require('rarbg-search')
 
 rarbg.search(keyword, function(err, results) {
-  console.log(results) // returns name, seeders, leechers, url
+  console.log(results) // returns name, size, seeders, leechers, url
 })
 ```
 
