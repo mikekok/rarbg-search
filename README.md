@@ -14,7 +14,7 @@ rarbg.search(keyword, function(err, results) {
 ```
 
 ## Packages
-* [request](https://github.com/request/request)
+* [cloudscraper](https://github.com/codemanki/cloudscraper)
 * [cheerio](https://github.com/cheeriojs/cheerio)
 
 ## License

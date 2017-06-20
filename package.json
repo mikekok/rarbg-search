@@ -1,6 +1,6 @@
 {
   "name": "rarbg-search",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Search torrents at RARBG",
   "main": "index.js",
   "scripts": {
